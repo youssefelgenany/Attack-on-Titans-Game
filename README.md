@@ -2,7 +2,7 @@
 
 A strategic tower-defense game built with Java and JavaFX, where you defend your walls against waves of Titans by strategically deploying weapons across multiple lanes.
 
-
+![Game Screenshot](src/start_bg.png)
 
 ## 🎮 Game Overview
 
