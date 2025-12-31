@@ -230,10 +230,6 @@ Feel free to fork this project and submit pull requests for any improvements!
 - Built with JavaFX for modern UI design
 - Game mechanics inspired by classic tower defense games
 
-## 📧 Contact
-
-For questions or suggestions, please open an issue on the GitHub repository.
-
 ---
 
 **Defend your walls. Survive the Titans. Good luck, Commander!** 🛡️
